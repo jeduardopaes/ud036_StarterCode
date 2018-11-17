@@ -23,7 +23,7 @@ dr_strange = media.Movie("Dr. Strange",
 
 the_killing_joke = media.Movie("The Killing Joke",
                   "Batman, Joker, DC at it's finest.",
-                  "https://imagesyoulike.com/images/00000/32x24/12622.jpg",
+                  "https://vignette.wikia.nocookie.net/batman/images/2/2f/KillingJokeCartoon.jpg/revision/latest?cb=20160602154448",
                   "https://www.youtube.com/watch?v=ZQTqu1_iQkw")
 
 batman_under_the_red_hood = media.Movie("Batman: Under the red hood",
